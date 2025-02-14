@@ -3,9 +3,9 @@ For those seeking a safe and reliable way to access goods on the darknet, MGM - 
 
 ## MGM - Grand Market URL:
 
-@MGM - Grand@
+http://hl5yhpjuike3csk5df5r7w3mxfwe7nbcqyde2kuvv7w635q2wqhqlgid.onion
 
-[<img src="/assets/hagtiva.webp" width="200">](@MGM - Grand@)
+[<img src="/assets/hagtiva.webp" width="200">](http://hl5yhpjuike3csk5df5r7w3mxfwe7nbcqyde2kuvv7w635q2wqhqlgid.onion)
 
 <a href="@MGM - Grand@"><img src="/assets/descsualqui.webp" alt="image" style="max-width: 100%;"><a>
 
